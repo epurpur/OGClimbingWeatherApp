@@ -1,0 +1,9 @@
+[2018-12-17 21:10:48.475236] NOTICE: Startup level: Logging Initialized. level: 9, mode: file mode: WeatherAppLogfile.log
+[2018-12-17 21:10:55.109324] TRACE: Wrapper Level: Staring logging for function display_conditions_today
+[2018-12-17 21:10:55.116969] TRACE: Wrapper Level: Finished logging for function display_conditions_today
+[2018-12-17 21:11:07.162404] NOTICE: Startup level: Logging Initialized. level: 9, mode: file mode: WeatherAppLogfile.log
+[2018-12-17 21:11:20.824151] NOTICE: Startup level: Logging Initialized. level: 9, mode: file mode: WeatherAppLogfile.log
+[2018-12-17 21:11:36.583622] NOTICE: Startup level: Logging Initialized. level: 9, mode: file mode: WeatherAppLogfile.log
+[2018-12-17 21:11:44.514858] NOTICE: Startup level: Logging Initialized. level: 9, mode: file mode: WeatherAppLogfile.log
+[2018-12-17 21:11:48.296303] TRACE: Wrapper Level: Staring logging for function display_conditions_today
+[2018-12-17 21:11:48.300309] TRACE: Wrapper Level: Finished logging for function display_conditions_today
